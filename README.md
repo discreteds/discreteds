@@ -38,12 +38,8 @@ A composable Python data engineering ecosystem. Expressions, rules, validation, 
 | [mountainash-data](https://github.com/mountainash-io/mountainash-data) | One connection interface for analytical backends: relational databases through Ibis, Iceberg catalogs through PyIceberg. |
 | [mountainash-settings](https://github.com/mountainash-io/mountainash-settings) | Typed configuration: layered YAML, TOML, JSON and environment variables, template resolution and Pydantic integration. |
 | [mountainash-rules](https://github.com/mountainash-io/mountainash-rules) | Metadata-driven business rules engine: decision tables ranked by specificity, evaluated in one vectorised pass, with per-rule explainability. |
-| [mountainash-rules-babel](https://github.com/mountainash-io/mountainash-rules-babel) | Translation of rule sets between formats, such as CSV and DMN. |
 | [mountainash-structuremap](https://github.com/mountainash-io/mountainash-structuremap) | Declarative, bidirectional transformation between hierarchical payloads (XML, JSON) and relational tables. |
 | [mountainash-transport](https://github.com/mountainash-io/mountainash-transport) | Storage abstraction with one interface across local and cloud object stores. |
-| [mountainash-secrets](https://github.com/mountainash-io/mountainash-secrets) | Capability-graded secret-store protocols with pluggable stores and an injected resolver. |
-| [mountainash-pipelines](https://github.com/mountainash-io/mountainash-pipelines) | Generic pipeline protocols with predicate pushdown. |
-| [mountainash-resource-provider](https://github.com/mountainash-io/mountainash-resource-provider) | Neutral resource-provider contracts shared across packages. |
 
 ---
 
